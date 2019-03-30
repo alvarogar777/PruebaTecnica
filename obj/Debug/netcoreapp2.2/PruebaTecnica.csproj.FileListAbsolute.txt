@@ -1,0 +1,11 @@
+C:\Users\usuario\Documents\Visual\PruebaTecnica\bin\Debug\netcoreapp2.2\PruebaTecnica.deps.json
+C:\Users\usuario\Documents\Visual\PruebaTecnica\bin\Debug\netcoreapp2.2\PruebaTecnica.runtimeconfig.json
+C:\Users\usuario\Documents\Visual\PruebaTecnica\bin\Debug\netcoreapp2.2\PruebaTecnica.runtimeconfig.dev.json
+C:\Users\usuario\Documents\Visual\PruebaTecnica\bin\Debug\netcoreapp2.2\PruebaTecnica.dll
+C:\Users\usuario\Documents\Visual\PruebaTecnica\bin\Debug\netcoreapp2.2\PruebaTecnica.pdb
+C:\Users\usuario\Documents\Visual\PruebaTecnica\obj\Debug\netcoreapp2.2\PruebaTecnica.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\Visual\PruebaTecnica\obj\Debug\netcoreapp2.2\PruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Visual\PruebaTecnica\obj\Debug\netcoreapp2.2\PruebaTecnica.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Visual\PruebaTecnica\obj\Debug\netcoreapp2.2\PruebaTecnica.AssemblyInfo.cs
+C:\Users\usuario\Documents\Visual\PruebaTecnica\obj\Debug\netcoreapp2.2\PruebaTecnica.dll
+C:\Users\usuario\Documents\Visual\PruebaTecnica\obj\Debug\netcoreapp2.2\PruebaTecnica.pdb
